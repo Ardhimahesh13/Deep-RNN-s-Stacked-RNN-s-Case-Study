@@ -75,3 +75,8 @@ model.add(SimpleRNN(units=5, return_sequences=False))
 model.add(Dense(1, activation='sigmoid'))
 
 model.summary()
+
+
+## 🧮 Parameter Calculation
+<img width="737" height="575" alt="image" src="https://github.com/user-attachments/assets/137f61bd-2e93-4b36-82ef-e9ab249e9769" />
+
